@@ -3,5 +3,5 @@
 > Status do projeto: Em desenvolvimento
 
 ```
-teste - aula sobre Git e GitHub
+node app.js
 ```
